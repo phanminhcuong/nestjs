@@ -9,4 +9,7 @@ age:number;
 @IsNotEmpty()
 breed:string;
 
+@IsNotEmpty()
+breed1:string;
+
 }
